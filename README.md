@@ -43,3 +43,5 @@ The project successfully produces visually appealing stylized images. Here's an 
 
 
 # output image:
+![Image](https://github.com/user-attachments/assets/dd69f93b-bf49-48a0-bb50-58b177701299)
+
