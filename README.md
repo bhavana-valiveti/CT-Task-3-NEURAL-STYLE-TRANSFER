@@ -38,6 +38,8 @@ The project successfully produces visually appealing stylized images. Here's an 
 ![Image](https://github.com/user-attachments/assets/9b9b4db4-8637-4b8d-b68a-273c5b76e12d)
 
 # Style Image:
+![Image](https://github.com/user-attachments/assets/dedac038-69cd-4b76-9f6b-1aac163b3afa)
+
 
 
 # output image:
