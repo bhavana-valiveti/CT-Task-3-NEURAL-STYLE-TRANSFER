@@ -35,7 +35,7 @@ The generated image preserves the structure of the content image while applying 
 The project successfully produces visually appealing stylized images. Here's an example:
 
 # Content Image:
-
+![Image](https://github.com/user-attachments/assets/9b9b4db4-8637-4b8d-b68a-273c5b76e12d)
 
 # Style Image:
 
